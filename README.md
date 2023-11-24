@@ -1,0 +1,1 @@
+Este proyecto es parte de una prueba tecnica.
