@@ -1,6 +1,6 @@
 from django.db import models
-
 class Empleado(models.Model):
+
     nombre = models.CharField(max_length=100)
     posicion = models.CharField(max_length=100)
     version = models.IntegerField(default=1)
